@@ -1,4 +1,4 @@
-<form action = "calcprice.jsp" method = post>
+//*<form action = "calcprice.jsp" method = post>
 Enter name: <input type="text" name="name"><br>
 Enter age: <input type="text" name="age"><br>
 <button type = "submit"> Submit </button>
@@ -15,4 +15,4 @@ else if (age<10)
 out.println("The price of the ticket is Rs.30");
 else
 out.println("The price of the ticket is Rs.80");
-%>
+%>*//
